@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="LIBRARY">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/LIBRARY/sqlite-jdbc-3.8.11.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIBRARY/aspectjrt.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIBRARY/jsfml.jar!/" />
+      <root url="jar://$PROJECT_DIR$/LIBRARY/trove-3.0.0.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
