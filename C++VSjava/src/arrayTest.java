@@ -8,7 +8,7 @@ public class arrayTest {
         for (int i = 0; i < 20; i++) {
             for (int j = 0; j < liczba; j++) {
                 x[j] = j+i;
-                x[j] += 510; // 123 tralalala dupa kupa zupaa
+                x[j] += 510; // 123 tralalala dupa kupa zupaai
             }
         }
         System.out.println("z wskażnikiem: " + (System.currentTimeMillis() - start));
