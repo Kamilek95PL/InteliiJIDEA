@@ -43,7 +43,11 @@ public class CppCodeToJava {
             do {
                 i += 2;
                 String block = "";
-                while (cppLine.charAt(i) != '<' && cppLine.charAt(i) != ';') {
+//                while (cppLine.charAt(i) != '<' && cppLine.charAt(i) != ';') {
+//                    block += cppLine.charAt(i);
+//                    i++;
+//                }
+                while (! charr.allIsEquel(cppLine.charAt(i), '<', ';')) {
                     block += cppLine.charAt(i);
                     i++;
                 }
